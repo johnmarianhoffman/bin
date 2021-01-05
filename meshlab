@@ -1,0 +1,2 @@
+#!/bin/bash
+~/Code/meshlab/distrib/meshlab $@  > /dev/null 2>&1
